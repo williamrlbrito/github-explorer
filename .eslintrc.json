@@ -47,7 +47,9 @@
         "error"
       ],
       "react/react-in-jsx-scope": "off",
-      "prettier/prettier": "error"
+      "prettier/prettier": "error",
+      "import/no-extraneous-dependencies": "off",
+      "import/prefer-default-export": "off"
     },
     "settings": {
       "import/resolver": {
